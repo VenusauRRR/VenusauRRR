@@ -1,8 +1,4 @@
 ## Hi there, I'm Venus 👋
-I have a great interest in backend development, embedded systems and IoT
-technologies, desire to start a new career in the IT industry. As a person, I am
-analytical, responsible and results-oriented. I pay attention to details and am
-good at solving problems.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=VenusauRRR)](https://github.com/anuraghazra/github-readme-stats)
 <!--
